@@ -1,6 +1,6 @@
 <?php
 /**
- * Bigup: Archives - widget.
+ * Bigup Web: Archives - widget.
  *
  * This template defines the widget including settings form,
  * front end html and saving settings.
@@ -23,7 +23,7 @@ class Bigup_Archives_Widget extends WP_Widget {
             'classname' => 'bigup_archives_widget',
             'description' => 'An archive list menu widget'
         );
-        parent::__construct( 'bigup_archives_widget', 'Bigup: Archives', $widget_options );
+        parent::__construct( 'bigup_archives_widget', 'Bigup Web: Archives', $widget_options );
 
     }
 

@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Bigup: Archives
+ * Plugin Name: Bigup Web: Archives
  * Plugin URI: https://jeffersonreal.com
  * Description: An archive list menu widget.
  * Version: 0.2
