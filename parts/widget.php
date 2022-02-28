@@ -24,7 +24,7 @@ class Bigup_Archives_Widget extends WP_Widget {
             'description' => 'An archive list menu widget'
         );
         parent::__construct( 'bigup_archives_widget', 'Bigup Web: Archives', $widget_options );
-
+		/* second arg is name as it appears in widget picker */
     }
 
 
