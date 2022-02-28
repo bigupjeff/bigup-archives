@@ -134,7 +134,7 @@ class Bigup_Archives_Widget extends WP_Widget {
         <p>
             <input type="checkbox"
                    name="<?php echo $this->get_field_name( 'boo_post_count' ); ?>"
-                   value="true"<?php checked( true, $instance['boo_post_count'] ); ?>
+                   value="true"<?php checked( true, $boo_post_count ); ?>
                    id="<?php echo $this->get_field_id( 'boo_post_count' ); ?>">
             <label for="<?php echo $this->get_field_id( 'boo_post_count' ); ?>">Show Post Count in Link Title</label>
         </p>
