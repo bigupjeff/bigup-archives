@@ -6,7 +6,7 @@
  * front end html and saving settings.
  *
  * @package bigup_archives
- * @author Jefferson Real <me@jeffersonreal.com>
+ * @author Jefferson Real <me@jeffersonreal.uk>
  * @copyright Copyright (c) 2021, Jefferson Real
  * @license GPL2+
  */

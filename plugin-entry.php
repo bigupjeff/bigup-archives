@@ -1,15 +1,15 @@
 <?php
 /**
  * Plugin Name: Bigup Web: Archives
- * Plugin URI: https://jeffersonreal.com
+ * Plugin URI: https://jeffersonreal.uk
  * Description: An archive list menu widget.
  * Version: 0.2
  * Author: Jefferson Real
- * Author URI: https://jeffersonreal.com
+ * Author URI: https://jeffersonreal.uk
  * License: GPL2
  *
  * @package bigup_archives
- * @author Jefferson Real <me@jeffersonreal.com>
+ * @author Jefferson Real <me@jeffersonreal.uk>
  * @copyright Copyright (c) 2021, Jefferson Real
  * @license GPL2+
  */
